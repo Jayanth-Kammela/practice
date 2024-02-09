@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.item {
+    background-color: #D1D0D0;
+    width: 169.48px;
+    height: 26.25px;
+    display: inline-block;
+    border-radius: 3.75px;
+    margin: 8px;
+    text-align: center;
+}
